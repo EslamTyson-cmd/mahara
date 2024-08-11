@@ -1,7 +1,7 @@
 // C program to sort the array in an
 // ascending order using selection sort
 #include <stdio.h>
-
+void addfun(int add);
 void swap(int* xp, int* yp)
 {
     int temp = *xp;
